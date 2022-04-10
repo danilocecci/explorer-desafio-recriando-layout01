@@ -30,6 +30,10 @@ a {
   color: #fff;
 }
 
+a:hover {
+  color: #00BFA6;
+}
+
 section {
   display: flex;
   align-items: center;
